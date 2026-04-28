@@ -1,5 +1,9 @@
 # Queuing-Simulation-and-Regression-Analysis-using-SimPy
 
+**Name:** Vaibhav Srivastva
+
+**Roll No:** 102316037
+
 ## 1. Methodology
 
 ```
